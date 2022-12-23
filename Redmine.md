@@ -2,7 +2,7 @@
 
 ---
 
-![Untitled](Redmine%2024ee8592194445e7bf8ae8397e90ee64/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/84123877/209275345-61ba288c-10ad-4934-85af-126e88079ef1.png)
 
 레드마인(Redamine)은 오픈소스 프로그램으로 웹 기반의 프로젝트 관리와 버그 추적 기능을 제공하는 도구이다. 주요 기능으로는,
 
@@ -54,11 +54,11 @@ directive globally to suppress this message
 apt-get install redmine redmine-mysql -y
 ```
 
-![Untitled](Redmine%2024ee8592194445e7bf8ae8397e90ee64/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/84123877/209275323-24092ba3-974c-471c-a866-5d23ecd80374.png)
 
-![Untitled](Redmine%2024ee8592194445e7bf8ae8397e90ee64/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/84123877/209275330-f12fe4cb-b662-46ef-8f75-81a6e095e31a.png)
 
-![Untitled](Redmine%2024ee8592194445e7bf8ae8397e90ee64/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/84123877/209275331-20e2485d-c7ce-4834-a3a3-f3e7b46f376b.png)
 
 ### gem 업데이트, bundler 설치
 
@@ -68,7 +68,7 @@ gem -v
 gem update
 ```
 
-![Untitled](Redmine%2024ee8592194445e7bf8ae8397e90ee64/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/84123877/209275332-0cdda92d-4b9b-45fe-b199-ffd58ca1e167.png)
 
 /var/lib/gems 하위 디렉터리에 접근하기 위해서는  
 
@@ -143,17 +143,17 @@ Listen xxxx
 
 ### Redmine 접속
 
-![Untitled](Redmine%2024ee8592194445e7bf8ae8397e90ee64/Untitled%205.png)
+![Untitled 5](https://user-images.githubusercontent.com/84123877/209275333-ba34ef45-44a9-4451-82e4-20cf57054c40.png)
 
 `http://localhost/redmine` 접속
 
-![Untitled](Redmine%2024ee8592194445e7bf8ae8397e90ee64/Untitled%206.png)
+![Untitled 6](https://user-images.githubusercontent.com/84123877/209275336-08e17818-5595-4bd6-bfce-723864791584.png)
 
-![Untitled](Redmine%2024ee8592194445e7bf8ae8397e90ee64/Untitled%207.png)
+![Untitled 7](https://user-images.githubusercontent.com/84123877/209275339-d82b8931-5727-4290-80d7-51c6a627cf7f.png)
 
-![Untitled](Redmine%2024ee8592194445e7bf8ae8397e90ee64/Untitled%208.png)
+![Untitled 8](https://user-images.githubusercontent.com/84123877/209275341-999eb95a-9098-4989-8b75-7a167c55eec9.png)
 
-![Untitled](Redmine%2024ee8592194445e7bf8ae8397e90ee64/Untitled%209.png)
+![Untitled 9](https://user-images.githubusercontent.com/84123877/209275344-935df1ac-8656-4d4a-8daf-585d8b6a004e.png)
 
 테스트로 프로젝트와 일감을 추가한 모습이다. 이렇게 redmine 구축 및 테스트를 진행을 완료하였다.  
 
